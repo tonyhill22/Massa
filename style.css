@@ -1,0 +1,9 @@
+/* ProfitPilot styles */
+
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  background-color: #f4f6fa;
+  color: #1f2937;
+  margin: 0;
+  padding: 24px;
+}
